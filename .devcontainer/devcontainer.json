@@ -1,0 +1,10 @@
+{
+    "name": "somephin-try-1",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
